@@ -3,7 +3,11 @@ import './Navbar.scss';
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <nav>
+      <div>
+        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSleetmQBppNk1aBQ2UZSuWKrPHCTVYmTzCBA&usqp=CAU'></img>
+        </div> 
+    </nav>
   )
 }
 
